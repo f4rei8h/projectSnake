@@ -24,5 +24,6 @@ In addition to these basic steps, there are many variations and additions that c
 Overall, the Python version of the Snake game using Pygame is a fun and simple game to build for beginners and experienced developers alike.
 
 ---
-## Downloading Instructions
+
+### Downloading instructions: 
 Nothing yet :)
