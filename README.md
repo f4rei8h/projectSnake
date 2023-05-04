@@ -1,1 +1,1 @@
-# Project Snake
+# Project Snake game on Python with Pygame
