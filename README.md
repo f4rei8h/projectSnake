@@ -26,3 +26,10 @@ Overall, the Python version of the Snake game using Pygame is a fun and simple g
 ---
 
 ### Downloading instructions: 
+*There are two versions of the game, they are the same but slightly different in design.*
+
+If you downloading this project:
+
+- Choose which one you want to download *(main1.py or main2.py)*
+
+- And just download it, everything you need is in one file :)
